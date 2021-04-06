@@ -14,6 +14,7 @@ Usage:
     <Version>:       The Version of MobaXterm
                      Example:    10.9
 ```
+#setting----help
 
 EXAMPLE:
 
